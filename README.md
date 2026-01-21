@@ -81,10 +81,5 @@ Além de servir como demonstração prática de conhecimentos para oportunidades
 ## 📌 Autor
 
 **Bruno de Lima Gonçalves**
-Estudante de Sistemas de Informação | Desenvolvedor em formação
+Estudante de Sistemas de Informação
 
----
-
-## 📄 Licença
-
-Projeto de uso educacional e demonstrativo.
